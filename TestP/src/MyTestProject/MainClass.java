@@ -26,7 +26,7 @@ public class MainClass {
 		
 		
 		
-		driver.get("https://mail.google.com/mail/u/0/");
+		driver.get("https://mail.google.com");
 		
 		driver.close();
 		driver.quit();
