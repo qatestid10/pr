@@ -26,7 +26,7 @@ public class MainClass {
 		
 		
 		
-		driver.get("https://qa.bundledealer.com/#no-back");
+		driver.get("https://mail.google.com/mail/u/0/");
 		
 		driver.close();
 		driver.quit();
