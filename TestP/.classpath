@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/John Robert/Desktop/lib/selenium-server-standalone-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/John Robert/Desktop/lib/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="C:/Users/John Robert/Desktop/lib/client-combined-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/John Robert/Desktop/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/John Robert/Desktop/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/John Robert/Desktop/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/John Robert/Desktop/lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/John Robert/Desktop/lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/John Robert/Desktop/lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/John Robert/Desktop/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
